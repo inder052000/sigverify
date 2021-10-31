@@ -6,7 +6,7 @@ Link to the deployed App on *Heroku Platform* : https://lit-waters-92367.herokua
 **IDEA**
 
 
-Current methods in machine learning and statistics have allowed for the reliable automation of many of these tasks (face verification, fingerprinting, iris recognition). Among the numerous tasks used for biometric authentication is signature verification, which aims to detect whether a given signature is genuine or forged.
+Current methods in machine learning and statistics have allowed for the reliable automation of many of these tasks (face verification, fingerprinting, iris recognition). Among the numerous tasks used for biometric authentication is signature verification, which aims to detect whether a given signature is genuine or not.
 
 Signature verification is essential in preventing falsification of documents in numerous financial, legal, and other commercial settings. The task presents several unique difficulties: high intra-class variability (an individual’s signature may vary greatly day-to-day), large temporal variation (signature may change completely over time) and high inter-class similarity (forgeries, by nature, attempt to be as indistinguishable from genuine signatures as possible). Our aim is to develop an AI based signature verification system that is scalable and can be easily used to detect fraud cases in various public and private sector settings such as banks, post-offices, government offices and co-operatives too and reduce manual effort.
 
